@@ -17,7 +17,4 @@ app.on "window_ready", () ->
     window.show()
 
 window = app.createWindow
-    width: 800
-    height: 600
-    resizable: false
     entryPoint: "appjs://node/"
