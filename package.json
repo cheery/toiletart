@@ -1,0 +1,16 @@
+{
+  "author": "Henri Tuhola \b <henri.tuhola@gmail.com>",
+  "name": "toiletart",
+  "description": "appjs 'example'",
+  "version": "0.0.0",
+  "main": "main.coffee",
+  "dependencies": {
+      "appjs": "0.0.1",
+      "coffee-script": "~1.3.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
